@@ -1,0 +1,41 @@
+body{
+    background-image: url("D:/klu courses/II-Year/IV-sem/Courses/DBMS/Miniproject/Project/Project/img_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "Candara";
+    font-size: 50px;
+}
+h2{
+    font-family: "Candara";
+    font-size: 50px;
+    padding-top: 20%;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+form{
+    /*display: flex;*/
+    background-color: aliceblue;
+    font-family: "Candara";
+    font-size: 20px;
+    padding: 2% 6%;
+    border-radius: 20px;
+    margin: 0 35%;
+}
+input{
+    border-radius: 10px;
+    border-width: 5px;
+}
+.button{
+    display: block;
+    margin-left: 78%;
+}
+button{
+    background-color: lightslategray;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 10px;
+}
